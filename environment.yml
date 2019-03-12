@@ -1,0 +1,10 @@
+name: ds_from_scratch
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter
+  - bokeh
+  - rise
+  - scipy
+  - matplotlib
